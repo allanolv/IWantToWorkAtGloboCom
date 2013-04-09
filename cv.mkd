@@ -20,6 +20,7 @@ SOCIEDADE DE ENSINO SUPERIOR ESTÁCIO DE SÁ;
 WORD SITES LTDA;
 INTEGRA SISTEMA DE COMUNICAÇÃO;
 UNIVERSIDADE CANDIDO MENDES.
+
 Especialização em:
 •	Análise e desenvolvimento de sistemas web
 •	Engenharia de software;
@@ -29,12 +30,17 @@ Graduado em Sistema de Informação
  
 EXPERIÊNCIA PROFISSIONAL:
 DBTRANS SA 
+
 Período: 19/03/2008 (atual) – Analista Desenvolvedor Pleno.
 Desenvolvimento web ASP.NET, WCF, orientação a objeto nas linguagens VB.NET, C#, XHTML, DHTML, JavaScript, VBScript, XML, JQuery e utilização do método AJAX; Banco de Dados SQL Server 2008, criação de Stored Procedures e Triggers, T-SQL; Criação de WebServices, desenvolvimento em DotNetNuke; Análise e documentação no padrão UML. Contratação PJ.
+
 Sociedade de Ensino Superior Estácio de Sá 
+
 Data início: 17/09/2007 – 18/03/2008 – Desenvolvedor Jr.
 Desenvolvimento web avançada nas linguagens ASP, HTML, DHTML, JavaScript, VBScript e utilização do método AJAX; Banco de Dados Oracle 10g, criação de Stored Procedures e Triggers PL/SQL, administração do ambiente virtual do aluno. Sistema de educação a distância (Webaula). Contratação CLT.
+
 World Sites Ltda.
+
 Período: 09/07/2007 – 14/09/2007 – Desenvolvedor Jr.
 Desenvolvimento e documentação de sistema no padrão UML; programação web avançada nas linguagens ASP, HTML, JavaScript, VBScript e utilização dos métodos AJAX e DOM; Banco de Dados SQL Server, criação de Stored Procedures, Triggers. Sistema de automação de rotinas administrativas para controle de excelência em treinamentos da empresa TIM.
 Contratação CLT.
@@ -63,10 +69,3 @@ Graduado em Sistema de Informação, Universidade Estácio de Sá, concluído em
 INFORMAÇÕES ADICIONAIS
 Brasileiro, 26 anos, solteiro.
 
-
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
